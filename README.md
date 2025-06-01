@@ -20,10 +20,10 @@ Pasos realizados
 - La columna `budget` se modifica para eliminar simbolos como `$` y se transforma a formato numerico.
 - Se valida y se convirtiron `title_year` a un tipo numerico para evitar problemas en los filtros.
 # 3. Estadasticas
-- Se mostr¨® la duracion media de las peliculas.
+- Se mostro la duracion media de las peliculas.
 - Se contabiliza cuantas peliculas se estrenaron en 2008 y tienen una duracion entre 90 y 120 minutos.
-- Se calculo la mediana del presupuesto de todas las pel¨ªculas.
-# 4. Gr¨¢ficos
-- Se cre¨® un gr¨¢fico de barras que ilustra la relaci¨®n entre la duraci¨®n (por rangos) y el presupuesto medio.
-- Se identificaron outliers en la duraci¨®n usando el m¨¦todo IQR y se elabor¨® un gr¨¢fico de barras comparando la cantidad de pel¨ªculas normales frente a las at¨ªpicas.
+- Se calculo la mediana del presupuesto de todas las peliculas.
+# 4. Graficos
+- Se creo un grafico de barras que ilustra la relacion entre la duracion (por rangos) y el presupuesto medio.
+- Se identificaron outliers en la duracion usando el metodo IQR y se elaboro un grafico de barras comparando la cantidad de peliculas normales frente a las atipicas.
 ---
