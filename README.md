@@ -7,7 +7,7 @@ Trabajo: Semillero AIoT TDS
 
 # Estudio de Peliculas de IMDb
 Descripcion de la actividad
-Este proyecto lleva a cabo un an¨¢lisis exploratorio de datos (EDA) utilizando un conjunto de datos reales obtenidos de IMDb (`movie_metadata. csv`). La meta es limpiar, describir y visualizar la informaci¨®n mediante Python y bibliotecas como pandas, seaborn y matplotlib.
+Este proyecto lleva a cabo un analisis exploratorio de datos (EDA) utilizando un conjunto de datos reales obtenidos de IMDb (`movie_metadata. csv`). La meta es limpiar, describir y visualizar la informacion mediante Python y bibliotecas como pandas, seaborn y matplotlib.
 ---
 
 Pasos realizados
